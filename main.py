@@ -1,2 +1,2 @@
 print()
-print("hello oskar")
+print("created by Til and Oskar")
